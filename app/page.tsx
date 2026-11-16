@@ -665,6 +665,13 @@ export default function Home() {
                 )}
               </div>
             </div>
+            <a
+              href="/startups"
+              className="px-3 py-1.5 text-sm font-medium text-columbia-700 bg-columbia-50 hover:bg-columbia-100 rounded-lg transition-colors whitespace-nowrap"
+              title="Club startup opportunities & warm intros"
+            >
+              Startup Hub
+            </a>
             <button
               onClick={handleNewChat}
               className="p-2 hover:bg-slate-100 rounded-lg transition-colors"

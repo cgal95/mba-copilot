@@ -33,3 +33,6 @@ tsconfig.tsbuildinfo
 *.log
 npm-debug.log*
 .vercel
+
+# Startup Hub local data
+.data/
